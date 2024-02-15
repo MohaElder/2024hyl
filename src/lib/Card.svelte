@@ -86,6 +86,7 @@
         transition: transform 0.3s ease-out;
         user-select: none;
         cursor: grab;
+        box-shadow: rgba(240, 240, 46, 0.4) 5px 5px, rgba(240, 224, 46, 0.3) 10px 10px, rgba(230, 240, 46, 0.2) 15px 15px, rgba(240, 237, 46, 0.1) 20px 20px, rgba(240, 227, 46, 0.05) 25px 25px;
     }
     .card:active {
         cursor: grabbing;
