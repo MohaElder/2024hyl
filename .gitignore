@@ -1,0 +1,10 @@
+
+.svelte-kit/
+
+build/_app/
+
+node_modules/.bin/
+
+build/
+
+node_modules/
